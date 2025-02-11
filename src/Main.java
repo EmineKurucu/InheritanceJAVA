@@ -10,4 +10,5 @@ public class Main {
         CustomerManager customerManager = new CustomerManager();
         // customerManager. ve employeeManager. yazınca PersonManager'ın da methodları çıkar
     }
+
 }
